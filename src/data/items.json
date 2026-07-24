@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "item_thiefs_gloves_support",
+    "name": "Accomplice's Gloves",
+    "description": "",
+    "image": "/assets/tft/items/item_thiefs_gloves_support.png"
+  },
+  {
+    "id": "consumable_salvager",
+    "name": "Salvager",
+    "description": "",
+    "image": "/assets/tft/items/consumable_salvager.png"
+  },
+  {
+    "id": "cypher_armory_item_specific5_costs",
+    "name": "2 star Zac, Aurora, Urgot, and Samira",
+    "description": "",
+    "image": "/assets/tft/items/cypher_armory_item_specific5_costs.png"
+  },
+  {
+    "id": "cypher_armory_item_specific_radiant_items",
+    "name": "12 radiant items",
+    "description": "",
+    "image": "/assets/tft/items/cypher_armory_item_specific_radiant_items.png"
+  },
+  {
+    "id": "consumable_gwens_scissors",
+    "name": "Gwen's Scissors",
+    "description": "",
+    "image": "/assets/tft/items/consumable_gwens_scissors.png"
+  },
+  {
+    "id": "consumable_gwens_scissors_2",
+    "name": "Gwen's Scissors <rules>(2 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/consumable_gwens_scissors_2.png"
+  },
+  {
+    "id": "consumable_gwens_scissors_3",
+    "name": "Gwen's Scissors <rules>(3 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/consumable_gwens_scissors_3.png"
+  },
+  {
+    "id": "consumable_gwens_scissors_4",
+    "name": "Gwen's Scissors <rules>(4 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/consumable_gwens_scissors_4.png"
+  },
+  {
+    "id": "consumable_gwens_scissors_5",
+    "name": "Gwen's Scissors <rules>(5 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/consumable_gwens_scissors_5.png"
+  },
+  {
+    "id": "item_ornn_deaths_defiance",
+    "name": "Death's Defiance",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_deaths_defiance.png"
+  },
+  {
+    "id": "item_ornn_eternal_winter",
+    "name": "Eternal Winter",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_eternal_winter.png"
+  },
+  {
+    "id": "item_ornn_infinity_force",
+    "name": "Infinity Force",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_infinity_force.png"
+  },
+  {
+    "id": "item_ornn_muramana",
+    "name": "Manazane",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_muramana.png"
+  },
+  {
+    "id": "item_ornn_obsidian_cleaver",
+    "name": "Obsidian Cleaver",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_obsidian_cleaver.png"
+  },
+  {
+    "id": "item_ornn_randuins_sanctum",
+    "name": "Randuin's Omen",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_randuins_sanctum.png"
+  },
+  {
+    "id": "item_ornn_the_collector",
+    "name": "Gold Collector",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_the_collector.png"
+  },
+  {
+    "id": "item_ornn_zhonyas_paradox",
+    "name": "Zhonya's Paradox",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_zhonyas_paradox.png"
+  },
+  {
+    "id": "item_adaptive_helm_radiant",
+    "name": "Radiant Adaptive Helm",
+    "description": "",
+    "image": "/assets/tft/items/item_adaptive_helm_radiant.png"
+  },
+  {
+    "id": "item_archangels_staff_radiant",
+    "name": "Radiant Archangel's Staff",
+    "description": "",
+    "image": "/assets/tft/items/item_archangels_staff_radiant.png"
+  },
+  {
+    "id": "item_bloodthirster_radiant",
+    "name": "Radiant Bloodthirster",
+    "description": "",
+    "image": "/assets/tft/items/item_bloodthirster_radiant.png"
+  },
+  {
+    "id": "item_blue_buff_radiant",
+    "name": "Radiant Blue Buff",
+    "description": "",
+    "image": "/assets/tft/items/item_blue_buff_radiant.png"
+  },
+  {
+    "id": "item_bramble_vest_radiant",
+    "name": "Radiant Bramble Vest",
+    "description": "",
+    "image": "/assets/tft/items/item_bramble_vest_radiant.png"
+  },
+  {
+    "id": "item_crownguard_radiant",
+    "name": "Radiant Crownguard",
+    "description": "",
+    "image": "/assets/tft/items/item_crownguard_radiant.png"
+  },
+  {
+    "id": "item_deathblade_radiant",
+    "name": "Radiant Deathblade",
+    "description": "",
+    "image": "/assets/tft/items/item_deathblade_radiant.png"
+  },
+  {
+    "id": "item_dragons_claw_radiant",
+    "name": "Radiant Dragon's Claw",
+    "description": "",
+    "image": "/assets/tft/items/item_dragons_claw_radiant.png"
+  },
+  {
+    "id": "item_frozen_heart_radiant",
+    "name": "Radiant Protector's Vow",
+    "description": "",
+    "image": "/assets/tft/items/item_frozen_heart_radiant.png"
+  },
+  {
+    "id": "item_gargoyle_stoneplate_radiant",
+    "name": "Radiant Gargoyle Stoneplate",
+    "description": "",
+    "image": "/assets/tft/items/item_gargoyle_stoneplate_radiant.png"
+  },
+  {
+    "id": "item_giant_slayer_radiant",
+    "name": "Radiant Giant Slayer",
+    "description": "",
+    "image": "/assets/tft/items/item_giant_slayer_radiant.png"
+  },
+  {
+    "id": "item_guardian_angel_radiant",
+    "name": "Radiant Edge of Night",
+    "description": "",
+    "image": "/assets/tft/items/item_guardian_angel_radiant.png"
+  },
+  {
+    "id": "item_guinsoos_rageblade_radiant",
+    "name": "Radiant Guinsoo's Rageblade",
+    "description": "",
+    "image": "/assets/tft/items/item_guinsoos_rageblade_radiant.png"
+  },
+  {
+    "id": "item_hand_of_justice_radiant",
+    "name": "Radiant Hand of Justice",
+    "description": "",
+    "image": "/assets/tft/items/item_hand_of_justice_radiant.png"
+  },
+  {
+    "id": "item_hextech_gunblade_radiant",
+    "name": "Radiant Hextech Gunblade",
+    "description": "",
+    "image": "/assets/tft/items/item_hextech_gunblade_radiant.png"
+  },
+  {
+    "id": "item_infinity_edge_radiant",
+    "name": "Radiant Infinity Edge",
+    "description": "",
+    "image": "/assets/tft/items/item_infinity_edge_radiant.png"
+  },
+  {
+    "id": "item_ionic_spark_radiant",
+    "name": "Radiant Ionic Spark",
+    "description": "",
+    "image": "/assets/tft/items/item_ionic_spark_radiant.png"
+  },
+  {
+    "id": "item_jeweled_gauntlet_radiant",
+    "name": "Radiant Jeweled Gauntlet",
+    "description": "",
+    "image": "/assets/tft/items/item_jeweled_gauntlet_radiant.png"
+  },
+  {
+    "id": "item_last_whisper_radiant",
+    "name": "Radiant Last Whisper",
+    "description": "",
+    "image": "/assets/tft/items/item_last_whisper_radiant.png"
+  },
+  {
+    "id": "item_leviathan_radiant",
+    "name": "Radiant Nashor's Tooth",
+    "description": "",
+    "image": "/assets/tft/items/item_leviathan_radiant.png"
+  },
+  {
+    "id": "item_morellonomicon_radiant",
+    "name": "Radiant Morellonomicon",
+    "description": "",
+    "image": "/assets/tft/items/item_morellonomicon_radiant.png"
+  },
+  {
+    "id": "item_night_harvester_radiant",
+    "name": "Radiant Steadfast Heart",
+    "description": "",
+    "image": "/assets/tft/items/item_night_harvester_radiant.png"
+  },
+  {
+    "id": "item_quicksilver_radiant",
+    "name": "Radiant Quicksilver",
+    "description": "",
+    "image": "/assets/tft/items/item_quicksilver_radiant.png"
+  },
+  {
+    "id": "item_rabadons_deathcap_radiant",
+    "name": "Radiant Rabadon's Deathcap",
+    "description": "",
+    "image": "/assets/tft/items/item_rabadons_deathcap_radiant.png"
+  },
+  {
+    "id": "item_rapid_firecannon_radiant",
+    "name": "Radiant Red Buff",
+    "description": "",
+    "image": "/assets/tft/items/item_rapid_firecannon_radiant.png"
+  },
+  {
+    "id": "item_redemption_radiant",
+    "name": "Radiant Spirit Visage",
+    "description": "",
+    "image": "/assets/tft/items/item_redemption_radiant.png"
+  },
+  {
+    "id": "item_runaans_hurricane_radiant",
+    "name": "Radiant Kraken's Fury",
+    "description": "",
+    "image": "/assets/tft/items/item_runaans_hurricane_radiant.png"
+  },
+  {
+    "id": "item_spear_of_shojin_radiant",
+    "name": "Radiant Spear of Shojin",
+    "description": "",
+    "image": "/assets/tft/items/item_spear_of_shojin_radiant.png"
+  },
+  {
+    "id": "item_spectral_gauntlet_radiant",
+    "name": "Radiant Evenshroud",
+    "description": "",
+    "image": "/assets/tft/items/item_spectral_gauntlet_radiant.png"
+  },
+  {
+    "id": "item_statikk_shiv_radiant",
+    "name": "Radiant Void Staff",
+    "description": "",
+    "image": "/assets/tft/items/item_statikk_shiv_radiant.png"
+  },
+  {
+    "id": "item_steraks_gage_radiant",
+    "name": "Radiant Sterak's Gage",
+    "description": "",
+    "image": "/assets/tft/items/item_steraks_gage_radiant.png"
+  },
+  {
+    "id": "item_sunfire_cape_radiant",
+    "name": "Radiant Sunfire Cape",
+    "description": "",
+    "image": "/assets/tft/items/item_sunfire_cape_radiant.png"
+  },
+  {
+    "id": "item_thiefs_gloves_radiant",
+    "name": "Radiant Thief's Gloves",
+    "description": "",
+    "image": "/assets/tft/items/item_thiefs_gloves_radiant.png"
+  },
+  {
+    "id": "item_titans_resolve_radiant",
+    "name": "Radiant Titan's Resolve",
+    "description": "",
+    "image": "/assets/tft/items/item_titans_resolve_radiant.png"
+  },
+  {
+    "id": "item_trap_claw_radiant",
+    "name": "Radiant Striker's Flail",
+    "description": "",
+    "image": "/assets/tft/items/item_trap_claw_radiant.png"
+  },
+  {
+    "id": "item_warmogs_armor_radiant",
+    "name": "Radiant Warmog's Armor",
+    "description": "",
+    "image": "/assets/tft/items/item_warmogs_armor_radiant.png"
+  },
+  {
+    "id": "item_zz_rot_portal_radiant",
+    "name": "Zz'Rot Portal",
+    "description": "",
+    "image": "/assets/tft/items/item_zz_rot_portal_radiant.png"
+  },
+  {
+    "id": "item_shimmerscale_determined_investor",
+    "name": "Determined Investor",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_determined_investor.png"
+  },
+  {
+    "id": "item_shimmerscale_diamond_hands",
+    "name": "Diamond Hands",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_diamond_hands.png"
+  },
+  {
+    "id": "item_shimmerscale_gamblers_blade",
+    "name": "Gambler's Blade",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_gamblers_blade.png"
+  },
+  {
+    "id": "item_shimmerscale_gamblers_blade_hr",
+    "name": "Gambler's Blade",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_gamblers_blade_hr.png"
+  },
+  {
+    "id": "item_shimmerscale_heart_of_gold",
+    "name": "Needlessly Big Gem",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_heart_of_gold.png"
+  },
+  {
+    "id": "item_shimmerscale_heart_of_gold_hr",
+    "name": "Needlessly Big Gem",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_heart_of_gold_hr.png"
+  },
+  {
+    "id": "item_shimmerscale_moguls_mail",
+    "name": "Mogul's Mail",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_moguls_mail.png"
+  },
+  {
+    "id": "item_shimmerscale_moguls_mail_hr",
+    "name": "Mogul's Mail",
+    "description": "",
+    "image": "/assets/tft/items/item_shimmerscale_moguls_mail_hr.png"
+  },
+  {
+    "id": "item_treasure_dragon_blank_slot",
+    "name": "",
+    "description": "",
+    "image": "/assets/tft/items/item_treasure_dragon_blank_slot.png"
+  },
+  {
+    "id": "consumable_golden_item_remover",
+    "name": "Golden Item Remover",
+    "description": "",
+    "image": "/assets/tft/items/consumable_golden_item_remover.png"
+  },
+  {
+    "id": "item_ornn_deathfire_grasp",
+    "name": "Deathfire Grasp",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_deathfire_grasp.png"
+  },
+  {
+    "id": "item_ornn_horizon_focus",
+    "name": "Sniper's Focus",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_horizon_focus.png"
+  },
+  {
+    "id": "item_ornn_hullbreaker",
+    "name": "Hullcrusher",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_hullbreaker.png"
+  },
+  {
+    "id": "item_ornn_prototype_forge",
+    "name": "Blacksmith's Gloves",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_prototype_forge.png"
+  },
+  {
+    "id": "item_ornn_tricksters_glass",
+    "name": "Trickster's Glass",
+    "description": "",
+    "image": "/assets/tft/items/item_ornn_tricksters_glass.png"
+  },
+  {
+    "id": "tft_assist_1x2cost",
+    "name": "2-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x2cost.png"
+  },
+  {
+    "id": "tft_assist_1x2star2cost",
+    "name": "2-star 2-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x2star2cost.png"
+  },
+  {
+    "id": "tft_assist_1x2star3cost",
+    "name": "2-star 3-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x2star3cost.png"
+  },
+  {
+    "id": "tft_assist_1x2star4cost",
+    "name": "2-star 4-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x2star4cost.png"
+  },
+  {
+    "id": "tft_assist_1x2star5cost",
+    "name": "2-star 5-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x2star5cost.png"
+  },
+  {
+    "id": "tft_assist_1x3cost",
+    "name": "3-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x3cost.png"
+  },
+  {
+    "id": "tft_assist_1x3star5cost",
+    "name": "3-star 5-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x3star5cost.png"
+  },
+  {
+    "id": "tft_assist_1x4cost",
+    "name": "1-star 4-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x4cost.png"
+  },
+  {
+    "id": "tft_assist_1x5cost",
+    "name": "1-star 5-cost champion",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_1x5cost.png"
+  },
+  {
+    "id": "tft_assist_2x2star2cost",
+    "name": "2 2-star 2-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_2x2star2cost.png"
+  },
+  {
+    "id": "tft_assist_2x3cost",
+    "name": "2 3-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_2x3cost.png"
+  },
+  {
+    "id": "tft_assist_2x4cost",
+    "name": "2 4-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_2x4cost.png"
+  },
+  {
+    "id": "tft_assist_2x5cost",
+    "name": "2 5-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_2x5cost.png"
+  },
+  {
+    "id": "tft_assist_3x2cost",
+    "name": "3 2-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_3x2cost.png"
+  },
+  {
+    "id": "tft_assist_3x3cost",
+    "name": "3 3-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_3x3cost.png"
+  },
+  {
+    "id": "tft_assist_3x4cost",
+    "name": "3 4-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_3x4cost.png"
+  },
+  {
+    "id": "tft_assist_3x5cost",
+    "name": "3 5-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_3x5cost.png"
+  },
+  {
+    "id": "tft_assist_4x2cost",
+    "name": "4 2-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_4x2cost.png"
+  },
+  {
+    "id": "tft_assist_4x5cost",
+    "name": "4 5-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_4x5cost.png"
+  },
+  {
+    "id": "tft_assist_5x1cost",
+    "name": "5 1-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_5x1cost.png"
+  },
+  {
+    "id": "tft_assist_5x4cost",
+    "name": "5 4-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_5x4cost.png"
+  },
+  {
+    "id": "tft_assist_6x5cost",
+    "name": "6 5-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_6x5cost.png"
+  },
+  {
+    "id": "tft_assist_7x5cost",
+    "name": "7 5-cost champions",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_7x5cost.png"
+  },
+  {
+    "id": "tft_assist_all_double_non_spat_items",
+    "name": "All double component items",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_all_double_non_spat_items.png"
+  },
+  {
+    "id": "tft_assist_champion_duplicator_2",
+    "name": "2 Champion Duplicators",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_champion_duplicator_2.png"
+  },
+  {
+    "id": "tft_assist_deathblade_2",
+    "name": "2 Deathblades",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_deathblade_2.png"
+  },
+  {
+    "id": "tft_assist_dummy_2x_locked",
+    "name": "Dummy with 2 Lockets",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_dummy_2x_locked.png"
+  },
+  {
+    "id": "tft_assist_dummy_2x_zekes",
+    "name": "Dummy with 2 Zeke's",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_dummy_2x_zekes.png"
+  },
+  {
+    "id": "tft_assist_dummy_shroud",
+    "name": "Dummy with Shroud",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_dummy_shroud.png"
+  },
+  {
+    "id": "tft_assist_gold_1",
+    "name": "1 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_1.png"
+  },
+  {
+    "id": "tft_assist_gold_10",
+    "name": "10 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_10.png"
+  },
+  {
+    "id": "tft_assist_gold_15",
+    "name": "15 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_15.png"
+  },
+  {
+    "id": "tft_assist_gold_2",
+    "name": "2 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_2.png"
+  },
+  {
+    "id": "tft_assist_gold_20",
+    "name": "20 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_20.png"
+  },
+  {
+    "id": "tft_assist_gold_3",
+    "name": "3 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_3.png"
+  },
+  {
+    "id": "tft_assist_gold_30",
+    "name": "30 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_30.png"
+  },
+  {
+    "id": "tft_assist_gold_34",
+    "name": "34 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_34.png"
+  },
+  {
+    "id": "tft_assist_gold_4",
+    "name": "4 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_4.png"
+  },
+  {
+    "id": "tft_assist_gold_5",
+    "name": "5 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_5.png"
+  },
+  {
+    "id": "tft_assist_gold_55",
+    "name": "55 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_55.png"
+  },
+  {
+    "id": "tft_assist_gold_6",
+    "name": "6 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_6.png"
+  },
+  {
+    "id": "tft_assist_gold_7",
+    "name": "7 Gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_7.png"
+  },
+  {
+    "id": "tft_assist_gold_8",
+    "name": "8 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_8.png"
+  },
+  {
+    "id": "tft_assist_gold_9",
+    "name": "9 gold",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_gold_9.png"
+  },
+  {
+    "id": "tft_assist_golem_2x_aegis",
+    "name": "Golem with 2 Aegises.",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_golem_2x_aegis.png"
+  },
+  {
+    "id": "tft_assist_item_armory_completed",
+    "name": "Completed Item Anvil",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_item_armory_completed.png"
+  },
+  {
+    "id": "tft_assist_item_armory_component",
+    "name": "Component Anvil",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_item_armory_component.png"
+  },
+  {
+    "id": "tft_assist_item_armory_ornn",
+    "name": "Artifact Anvil",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_item_armory_ornn.png"
+  },
+  {
+    "id": "tft_assist_item_armory_support",
+    "name": "Support Anvil",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_item_armory_support.png"
+  },
+  {
+    "id": "tft_assist_lesser_duplicator_3",
+    "name": "3 Lesser Champion Duplicators",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_lesser_duplicator_3.png"
+  },
+  {
+    "id": "tft_assist_lesser_duplicator_6",
+    "name": "6 Lesser Champion Duplicators",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_lesser_duplicator_6.png"
+  },
+  {
+    "id": "tft_assist_masterwork_upgrade_3",
+    "name": "3 Masterwork Upgrades",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_masterwork_upgrade_3.png"
+  },
+  {
+    "id": "tft_assist_random_completed_item",
+    "name": "Completed Item",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_completed_item.png"
+  },
+  {
+    "id": "tft_assist_random_component",
+    "name": "Random Component",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_component.png"
+  },
+  {
+    "id": "tft_assist_random_component_2",
+    "name": "2 Components",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_component_2.png"
+  },
+  {
+    "id": "tft_assist_random_component_4",
+    "name": "4 components",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_component_4.png"
+  },
+  {
+    "id": "tft_assist_random_component_9",
+    "name": "9 components",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_component_9.png"
+  },
+  {
+    "id": "tft_assist_random_ornn_item",
+    "name": "Artifact Item",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_ornn_item.png"
+  },
+  {
+    "id": "tft_assist_random_radiant_item",
+    "name": "Radiant Item",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_radiant_item.png"
+  },
+  {
+    "id": "tft_assist_random_radiant_item_2",
+    "name": "2 Radiant Items",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_radiant_item_2.png"
+  },
+  {
+    "id": "tft_assist_random_radiant_item_3",
+    "name": "3 Radiant Items",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_random_radiant_item_3.png"
+  },
+  {
+    "id": "tft_assist_reforger_2",
+    "name": "2 Reforgers",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_reforger_2.png"
+  },
+  {
+    "id": "tft_assist_remover_2",
+    "name": "2 Item Removers",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_remover_2.png"
+  },
+  {
+    "id": "tft_assist_spatula_3",
+    "name": "3 Spatulas",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_spatula_3.png"
+  },
+  {
+    "id": "tft_assist_tacticians_cape_2",
+    "name": "2 Tacticians' Capes",
+    "description": "",
+    "image": "/assets/tft/items/tft_assist_tacticians_cape_2.png"
+  },
+  {
+    "id": "tft_consumable_champion_duplicator_i",
+    "name": "Tiny Champion Duplicator",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_champion_duplicator_i.png"
+  },
+  {
+    "id": "tft_consumable_champion_duplicator_iii",
+    "name": "Lesser Champion Duplicator",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_champion_duplicator_iii.png"
+  },
+  {
+    "id": "tft_consumable_item_remover",
+    "name": "Magnetic Remover",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left10",
+    "name": "Magnetic Remover <rules>(10 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left10.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left2",
+    "name": "Magnetic Remover <rules>(2 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left2.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left3",
+    "name": "Magnetic Remover <rules>(3 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left3.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left4",
+    "name": "Magnetic Remover <rules>(4 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left4.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left5",
+    "name": "Magnetic Remover <rules>(5 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left5.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left6",
+    "name": "Magnetic Remover <rules>(6 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left6.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left7",
+    "name": "Magnetic Remover <rules>(7 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left7.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left8",
+    "name": "Magnetic Remover <rules>(8 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left8.png"
+  },
+  {
+    "id": "tft_consumable_item_remover_uses_left9",
+    "name": "Magnetic Remover <rules>(9 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_remover_uses_left9.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller",
+    "name": "Reforger",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left10",
+    "name": "Reforger <rules>(10 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left10.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left2",
+    "name": "Reforger <rules>(2 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left2.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left3",
+    "name": "Reforger <rules>(3 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left3.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left4",
+    "name": "Reforger <rules>(4 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left4.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left5",
+    "name": "Reforger <rules>(5 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left5.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left6",
+    "name": "Reforger <rules>(6 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left6.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left7",
+    "name": "Reforger <rules>(7 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left7.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left8",
+    "name": "Reforger <rules>(8 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left8.png"
+  },
+  {
+    "id": "tft_consumable_item_reroller_uses_left9",
+    "name": "Reforger <rules>(9 uses left!)</rules>",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_item_reroller_uses_left9.png"
+  },
+  {
+    "id": "tft_consumable_masterwork_upgrade",
+    "name": "Masterwork Upgrade",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_masterwork_upgrade.png"
+  },
+  {
+    "id": "tft_consumable_neekos_help",
+    "name": "Champion Duplicator",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_neekos_help.png"
+  },
+  {
+    "id": "tft_consumable_shop_reroller",
+    "name": "Loaded Dice",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_shop_reroller.png"
+  },
+  {
+    "id": "tft_consumable_training_dummy",
+    "name": "Training Dummy",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_training_dummy.png"
+  },
+  {
+    "id": "tft_consumable_trash_to_treasure_reforger",
+    "name": "Reforger",
+    "description": "",
+    "image": "/assets/tft/items/tft_consumable_trash_to_treasure_reforger.png"
+  },
+  {
+    "id": "tft_item_adaptive_helm",
+    "name": "Adaptive Helm",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_adaptive_helm.png"
+  },
+  {
+    "id": "tft_item_aegis_of_the_legion",
+    "name": "Aegis of the Legion",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_aegis_of_the_legion.png"
+  },
+  {
+    "id": "tft_item_archangels_staff",
+    "name": "Archangel's Staff",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_archangels_staff.png"
+  },
+  {
+    "id": "tft_item_artifact_aegis_of_dawn",
+    "name": "Aegis of Dawn",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_aegis_of_dawn.png"
+  },
+  {
+    "id": "tft_item_artifact_aegis_of_dusk",
+    "name": "Aegis of Dusk",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_aegis_of_dusk.png"
+  },
+  {
+    "id": "tft_item_artifact_blighting_jewel",
+    "name": "Blighting Jewel",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_blighting_jewel.png"
+  },
+  {
+    "id": "tft_item_artifact_cappa_juice",
+    "name": "Cappa Juice",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_cappa_juice.png"
+  },
+  {
+    "id": "tft_item_artifact_cursed_vampiric_scepter",
+    "name": "Corrupt Vampiric Scepter",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_cursed_vampiric_scepter.png"
+  },
+  {
+    "id": "tft_item_artifact_dawncore",
+    "name": "Dawncore",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_dawncore.png"
+  },
+  {
+    "id": "tft_item_artifact_eternal_pact",
+    "name": "Eternal Pact",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_eternal_pact.png"
+  },
+  {
+    "id": "tft_item_artifact_fishbones",
+    "name": "Fishbones",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_fishbones.png"
+  },
+  {
+    "id": "tft_item_artifact_forbidden_idol",
+    "name": "Forbidden Idol",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_forbidden_idol.png"
+  },
+  {
+    "id": "tft_item_artifact_hellfire_hatchet",
+    "name": "Hellfire Hatchet",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_hellfire_hatchet.png"
+  },
+  {
+    "id": "tft_item_artifact_innervating_locket",
+    "name": "Innervating Locket",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_innervating_locket.png"
+  },
+  {
+    "id": "tft_item_artifact_lesser_mirrored_persona",
+    "name": "Lesser Mirrored Persona",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_lesser_mirrored_persona.png"
+  },
+  {
+    "id": "tft_item_artifact_lich_bane",
+    "name": "Lich Bane",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_lich_bane.png"
+  },
+  {
+    "id": "tft_item_artifact_lightshield_crest",
+    "name": "Lightshield Crest",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_lightshield_crest.png"
+  },
+  {
+    "id": "tft_item_artifact_ludens_tempest",
+    "name": "Luden's Tempest",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_ludens_tempest.png"
+  },
+  {
+    "id": "tft_item_artifact_mending_echoes",
+    "name": "Mending Echoes",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_mending_echoes.png"
+  },
+  {
+    "id": "tft_item_artifact_mirrored_persona",
+    "name": "Mirrored Persona",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_mirrored_persona.png"
+  },
+  {
+    "id": "tft_item_artifact_mittens",
+    "name": "Mittens",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_mittens.png"
+  },
+  {
+    "id": "tft_item_artifact_navori_flickerblades",
+    "name": "Flickerblades",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_navori_flickerblades.png"
+  },
+  {
+    "id": "tft_item_artifact_prowlers_claw",
+    "name": "Prowler's Claw",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_prowlers_claw.png"
+  },
+  {
+    "id": "tft_item_artifact_rapid_firecannon",
+    "name": "Rapid Firecannon",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_rapid_firecannon.png"
+  },
+  {
+    "id": "tft_item_artifact_seekers_armguard",
+    "name": "Seeker's Armguard",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_seekers_armguard.png"
+  },
+  {
+    "id": "tft_item_artifact_shadow_puppet",
+    "name": "Shadow Puppet",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_shadow_puppet.png"
+  },
+  {
+    "id": "tft_item_artifact_silvermere_dawn",
+    "name": "Silvermere Dawn",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_silvermere_dawn.png"
+  },
+  {
+    "id": "tft_item_artifact_spectral_cutlass",
+    "name": "Spectral Cutlass",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_spectral_cutlass.png"
+  },
+  {
+    "id": "tft_item_artifact_statikk_shiv",
+    "name": "Statikk Shiv",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_statikk_shiv.png"
+  },
+  {
+    "id": "tft_item_artifact_suspicious_trench_coat",
+    "name": "Suspicious Trench Coat",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_suspicious_trench_coat.png"
+  },
+  {
+    "id": "tft_item_artifact_talisman_of_ascension",
+    "name": "Talisman Of Ascension",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_talisman_of_ascension.png"
+  },
+  {
+    "id": "tft_item_artifact_the_indomitable",
+    "name": "The Indomitable",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_the_indomitable.png"
+  },
+  {
+    "id": "tft_item_artifact_titanic_hydra",
+    "name": "Titanic Hydra",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_titanic_hydra.png"
+  },
+  {
+    "id": "tft_item_artifact_unending_despair",
+    "name": "Unending Despair",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_unending_despair.png"
+  },
+  {
+    "id": "tft_item_artifact_void_gauntlet",
+    "name": "Void Gauntlet",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_void_gauntlet.png"
+  },
+  {
+    "id": "tft_item_artifact_wits_end",
+    "name": "Wit's End",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_artifact_wits_end.png"
+  },
+  {
+    "id": "tft_item_bfsword",
+    "name": "B.F. Sword",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_bfsword.png"
+  },
+  {
+    "id": "tft_item_banshees_veil",
+    "name": "Banshee's Veil",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_banshees_veil.png"
+  },
+  {
+    "id": "tft_item_blank",
+    "name": "",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_blank.png"
+  },
+  {
+    "id": "tft_item_bloodthirster",
+    "name": "Bloodthirster",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_bloodthirster.png"
+  },
+  {
+    "id": "tft_item_blue_buff",
+    "name": "Blue Buff",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_blue_buff.png"
+  },
+  {
+    "id": "tft_item_bramble_vest",
+    "name": "Bramble Vest",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_bramble_vest.png"
+  },
+  {
+    "id": "tft_item_chain_vest",
+    "name": "Chain Vest",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_chain_vest.png"
+  },
+  {
+    "id": "tft_item_chalice",
+    "name": "Chalice of Power",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_chalice.png"
+  },
+  {
+    "id": "tft_item_crownguard",
+    "name": "Crownguard",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_crownguard.png"
+  },
+  {
+    "id": "tft_item_deathblade",
+    "name": "Deathblade",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_deathblade.png"
+  },
+  {
+    "id": "tft_item_debug_base",
+    "name": "MissingNo",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_base.png"
+  },
+  {
+    "id": "tft_item_debug_crit",
+    "name": "Critical Hit!",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_crit.png"
+  },
+  {
+    "id": "tft_item_debug_damage",
+    "name": "Portable Pain",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_damage.png"
+  },
+  {
+    "id": "tft_item_debug_damage_amp",
+    "name": "Damage Amp",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_damage_amp.png"
+  },
+  {
+    "id": "tft_item_debug_first_hit",
+    "name": "Ace",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_first_hit.png"
+  },
+  {
+    "id": "tft_item_debug_mana",
+    "name": "The Tears of My Enemies",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_mana.png"
+  },
+  {
+    "id": "tft_item_debug_shield",
+    "name": "Pengu's Protection",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_shield.png"
+  },
+  {
+    "id": "tft_item_debug_stun",
+    "name": "Hammer to the Face",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_stun.png"
+  },
+  {
+    "id": "tft_item_debug_taunt",
+    "name": "Taunt",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_taunt.png"
+  },
+  {
+    "id": "tft_item_debug_unit_id",
+    "name": "Do You Know Who I Am?",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_debug_unit_id.png"
+  },
+  {
+    "id": "tft_item_dragons_claw",
+    "name": "Dragon's Claw",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_dragons_claw.png"
+  },
+  {
+    "id": "tft_item_empty_bag",
+    "name": "",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_empty_bag.png"
+  },
+  {
+    "id": "tft_item_eternal_flame",
+    "name": "The Eternal Flame",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_eternal_flame.png"
+  },
+  {
+    "id": "tft_item_force_of_nature",
+    "name": "Tactician's Crown",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_force_of_nature.png"
+  },
+  {
+    "id": "tft_item_frozen_heart",
+    "name": "Protector's Vow",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_frozen_heart.png"
+  },
+  {
+    "id": "tft_item_frying_pan",
+    "name": "Frying Pan",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_frying_pan.png"
+  },
+  {
+    "id": "tft_item_gargoyle_stoneplate",
+    "name": "Gargoyle Stoneplate",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_gargoyle_stoneplate.png"
+  },
+  {
+    "id": "tft_item_giants_belt",
+    "name": "Giant's Belt",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_giants_belt.png"
+  },
+  {
+    "id": "tft_item_guardian_angel",
+    "name": "Edge of Night",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_guardian_angel.png"
+  },
+  {
+    "id": "tft_item_guinsoos_rageblade",
+    "name": "Guinsoo's Rageblade",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_guinsoos_rageblade.png"
+  },
+  {
+    "id": "tft_item_hextech_gunblade",
+    "name": "Hextech Gunblade",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_hextech_gunblade.png"
+  },
+  {
+    "id": "tft_item_infinity_edge",
+    "name": "Infinity Edge",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_infinity_edge.png"
+  },
+  {
+    "id": "tft_item_ionic_spark",
+    "name": "Ionic Spark",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_ionic_spark.png"
+  },
+  {
+    "id": "tft_item_jeweled_gauntlet",
+    "name": "Jeweled Gauntlet",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_jeweled_gauntlet.png"
+  },
+  {
+    "id": "tft_item_last_whisper",
+    "name": "Last Whisper",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_last_whisper.png"
+  },
+  {
+    "id": "tft_item_leviathan",
+    "name": "Nashor's Tooth",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_leviathan.png"
+  },
+  {
+    "id": "tft_item_locket_of_the_iron_solari",
+    "name": "Locket of the Iron Solari",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_locket_of_the_iron_solari.png"
+  },
+  {
+    "id": "tft_item_madreds_bloodrazor",
+    "name": "Giant Slayer",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_madreds_bloodrazor.png"
+  },
+  {
+    "id": "tft_item_moonstone",
+    "name": "Moonstone Renewer",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_moonstone.png"
+  },
+  {
+    "id": "tft_item_morellonomicon",
+    "name": "Morellonomicon",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_morellonomicon.png"
+  },
+  {
+    "id": "tft_item_needlessly_large_rod",
+    "name": "Needlessly Large Rod",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_needlessly_large_rod.png"
+  },
+  {
+    "id": "tft_item_negatron_cloak",
+    "name": "Negatron Cloak",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_negatron_cloak.png"
+  },
+  {
+    "id": "tft_item_night_harvester",
+    "name": "Steadfast Heart",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_night_harvester.png"
+  },
+  {
+    "id": "tft_item_power_gauntlet",
+    "name": "Striker's Flail",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_power_gauntlet.png"
+  },
+  {
+    "id": "tft_item_quicksilver",
+    "name": "Quicksilver",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_quicksilver.png"
+  },
+  {
+    "id": "tft_item_rabadons_deathcap",
+    "name": "Rabadon's Deathcap",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_rabadons_deathcap.png"
+  },
+  {
+    "id": "tft_item_radiant_virtue",
+    "name": "Virtue of the Martyr",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_radiant_virtue.png"
+  },
+  {
+    "id": "tft_item_rapid_fire_cannon",
+    "name": "Red Buff",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_rapid_fire_cannon.png"
+  },
+  {
+    "id": "tft_item_recurve_bow",
+    "name": "Recurve Bow",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_recurve_bow.png"
+  },
+  {
+    "id": "tft_item_red_buff",
+    "name": "Sunfire Cape",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_red_buff.png"
+  },
+  {
+    "id": "tft_item_redemption",
+    "name": "Spirit Visage",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_redemption.png"
+  },
+  {
+    "id": "tft_item_runaans_hurricane",
+    "name": "Kraken's Fury",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_runaans_hurricane.png"
+  },
+  {
+    "id": "tft_item_sentinel_swarm",
+    "name": "Sentinel Swarm",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_sentinel_swarm.png"
+  },
+  {
+    "id": "tft_item_shroud",
+    "name": "Shroud of Stillness",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_shroud.png"
+  },
+  {
+    "id": "tft_item_sparring_gloves",
+    "name": "Sparring Gloves",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_sparring_gloves.png"
+  },
+  {
+    "id": "tft_item_spatula",
+    "name": "Spatula",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_spatula.png"
+  },
+  {
+    "id": "tft_item_spear_of_shojin",
+    "name": "Spear of Shojin",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_spear_of_shojin.png"
+  },
+  {
+    "id": "tft_item_spectral_gauntlet",
+    "name": "Evenshroud",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_spectral_gauntlet.png"
+  },
+  {
+    "id": "tft_item_statikk_shiv",
+    "name": "Void Staff",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_statikk_shiv.png"
+  },
+  {
+    "id": "tft_item_steraks_gage",
+    "name": "Sterak's Gage",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_steraks_gage.png"
+  },
+  {
+    "id": "tft_item_support_knights_vow",
+    "name": "Knight's Vow",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_support_knights_vow.png"
+  },
+  {
+    "id": "tft_item_tacticians_ring",
+    "name": "Tactician's Cape",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_tacticians_ring.png"
+  },
+  {
+    "id": "tft_item_tacticians_scepter",
+    "name": "Tactician's Shield",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_tacticians_scepter.png"
+  },
+  {
+    "id": "tft_item_tear_of_the_goddess",
+    "name": "Tear of the Goddess",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_tear_of_the_goddess.png"
+  },
+  {
+    "id": "tft_item_thiefs_gloves",
+    "name": "Thief's Gloves",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_thiefs_gloves.png"
+  },
+  {
+    "id": "tft_item_titanic_hydra",
+    "name": "Zz'Rot Portal",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_titanic_hydra.png"
+  },
+  {
+    "id": "tft_item_titans_resolve",
+    "name": "Titan's Resolve",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_titans_resolve.png"
+  },
+  {
+    "id": "tft_item_unstable_concoction",
+    "name": "Hand Of Justice",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_unstable_concoction.png"
+  },
+  {
+    "id": "tft_item_unstable_treasure_chest",
+    "name": "Unstable Treasure Chest",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_unstable_treasure_chest.png"
+  },
+  {
+    "id": "tft_item_unusable_slot",
+    "name": "Unusable Slot",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_unusable_slot.png"
+  },
+  {
+    "id": "tft_item_warmogs_armor",
+    "name": "Warmog's Armor",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_warmogs_armor.png"
+  },
+  {
+    "id": "tft_item_zekes_herald",
+    "name": "Zeke's Herald",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_zekes_herald.png"
+  },
+  {
+    "id": "tft_item_zephyr",
+    "name": "Zephyr",
+    "description": "",
+    "image": "/assets/tft/items/tft_item_zephyr.png"
+  }
+]

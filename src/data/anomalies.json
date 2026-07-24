@@ -1,0 +1,38 @@
+[
+  {
+    "id": "market_offering_anomaly",
+    "name": "Anomaly",
+    "description": "",
+    "image": "/assets/tft/anomalies/market_offering_anomaly.png"
+  },
+  {
+    "id": "ekko_offering_anomaly_item",
+    "name": "Anomaly",
+    "description": "",
+    "image": "/assets/tft/anomalies/ekko_offering_anomaly_item.png"
+  },
+  {
+    "id": "consumable_anomaly_hunger_for_power",
+    "name": "Hunger For Power Anomaly",
+    "description": "",
+    "image": "/assets/tft/anomalies/consumable_anomaly_hunger_for_power.png"
+  },
+  {
+    "id": "market_offering_anomaly",
+    "name": "Anomaly",
+    "description": "",
+    "image": "/assets/tft/anomalies/market_offering_anomaly.png"
+  },
+  {
+    "id": "ekko_offering_anomaly_item",
+    "name": "Anomaly",
+    "description": "",
+    "image": "/assets/tft/anomalies/ekko_offering_anomaly_item.png"
+  },
+  {
+    "id": "consumable_anomaly_hunger_for_power",
+    "name": "Hunger For Power Anomaly",
+    "description": "",
+    "image": "/assets/tft/anomalies/consumable_anomaly_hunger_for_power.png"
+  }
+]

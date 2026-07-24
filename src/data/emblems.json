@@ -1,0 +1,97 @@
+[
+  {
+    "id": "astrait",
+    "name": "Challenger",
+    "emblem": "/assets/tft/emblems/challenger.png"
+  },
+  {
+    "id": "shield_tank",
+    "name": "Vanguard",
+    "emblem": "/assets/tft/emblems/vanguard.png"
+  },
+  {
+    "id": "psy_ops",
+    "name": "Psionic",
+    "emblem": "/assets/tft/emblems/psionic.png"
+  },
+  {
+    "id": "timebreaker",
+    "name": "Timebreaker",
+    "emblem": "/assets/tft/emblems/timebreaker.png"
+  },
+  {
+    "id": "melee_trait",
+    "name": "Marauder",
+    "emblem": "/assets/tft/emblems/marauder.png"
+  },
+  {
+    "id": "anima_squad",
+    "name": "Anima",
+    "emblem": "/assets/tft/emblems/anima_squad.png"
+  },
+  {
+    "id": "assassin_trait",
+    "name": "Rogue",
+    "emblem": "/assets/tft/emblems/rouge.png"
+  },
+  {
+    "id": "dark_star",
+    "name": "Dark Star",
+    "emblem": "/assets/tft/emblems/dark_star.png"
+  },
+  {
+    "id": "primordian",
+    "name": "Primordian",
+    "emblem": "/assets/tft/emblems/primordian.png"
+  },
+  {
+    "id": "space_groove",
+    "name": "Space Groove",
+    "emblem": "/assets/tft/emblems/space_groove.png"
+  },
+  {
+    "id": "admin",
+    "name": "Arbiter",
+    "emblem": "/assets/tft/emblems/arbiter.png"
+  },
+  {
+    "id": "summon_trait",
+    "name": "Shepherd",
+    "emblem": "/assets/tft/emblems/shepard.png"
+  },
+  {
+    "id": "hptank",
+    "name": "Brawler",
+    "emblem": "/assets/tft/emblems/brawler.png"
+  },
+  {
+    "id": "resist_tank",
+    "name": "Bastion",
+    "emblem": "/assets/tft/emblems/bastion.png"
+  },
+  {
+    "id": "astronaut",
+    "name": "Meeple",
+    "emblem": "/assets/tft/emblems/meeple.png"
+  },
+  {
+    "id": "stargazer",
+    "name": "Stargazer",
+    "emblem": "/assets/tft/emblems/stargazer.png"
+  },
+  {
+    "id": "flex_trait",
+    "name": "Voyager",
+    "emblem": "/assets/tft/emblems/voyager.png"
+  },
+  {
+    "id": "drx",
+    "name": "N.O.V.A.",
+    "emblem": "/assets/tft/emblems/nova.png"
+  },
+  {
+    "id": "ranged_trait",
+    "name": "Sniper",
+    "emblem": "/assets/tft/emblems/sniper.png"
+  }
+]

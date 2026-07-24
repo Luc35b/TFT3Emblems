@@ -1,0 +1,13 @@
+{
+  "set": "17",
+  "updatedAt": "2026-07-23T04:28:54.624Z",
+  "source": "https://raw.communitydragon.org/latest/cdragon/tft/en_us.json",
+  "counts": {
+    "champions": 33,
+    "traits": 44,
+    "items": 270,
+    "augments": 22,
+    "anomalies": 6,
+    "images": 372
+  }
+}

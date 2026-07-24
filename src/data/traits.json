@@ -1,0 +1,241 @@
+[
+  {
+    "id": "vex_unique_trait",
+    "name": "Doomer",
+    "image": "/assets/tft/traits/vex_unique_trait.png"
+  },
+  {
+    "id": "astrait",
+    "name": "Challenger",
+    "image": "/assets/tft/traits/astrait.png",
+    "emblem": "/assets/tft/emblems/challenger.png"
+  },
+  {
+    "id": "miss_fortune_undetermined_trait",
+    "name": "Choose Trait",
+    "image": "/assets/tft/traits/miss_fortune_undetermined_trait.png"
+  },
+  {
+    "id": "stargazer_wolf",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer_wolf.png"
+  },
+  {
+    "id": "aptrait",
+    "name": "Replicator",
+    "image": "/assets/tft/traits/aptrait.png"
+  },
+  {
+    "id": "shield_tank",
+    "name": "Vanguard",
+    "image": "/assets/tft/traits/shield_tank.png",
+    "emblem": "/assets/tft/emblems/vanguard.png"
+  },
+  {
+    "id": "psy_ops",
+    "name": "Psionic",
+    "image": "/assets/tft/traits/psy_ops.png",
+    "emblem": "/assets/tft/emblems/psionic.png"
+  },
+  {
+    "id": "jhin_unique_trait",
+    "name": "Eradicator",
+    "image": "/assets/tft/traits/jhin_unique_trait.png"
+  },
+  {
+    "id": "timebreaker",
+    "name": "Timebreaker",
+    "image": "/assets/tft/traits/timebreaker.png",
+    "emblem": "/assets/tft/emblems/timebreaker.png"
+  },
+  {
+    "id": "melee_trait",
+    "name": "Marauder",
+    "image": "/assets/tft/traits/melee_trait.png",
+    "emblem": "/assets/tft/emblems/marauder.png"
+  },
+  {
+    "id": "miss_fortune_unique_trait",
+    "name": "Gun Goddess",
+    "image": "/assets/tft/traits/miss_fortune_unique_trait.png"
+  },
+  {
+    "id": "anima_squad",
+    "name": "Anima",
+    "image": "/assets/tft/traits/anima_squad.png",
+    "emblem": "/assets/tft/emblems/anima_squad.png"
+  },
+  {
+    "id": "fateweaver",
+    "name": "Fateweaver",
+    "image": "/assets/tft/traits/fateweaver.png"
+  },
+  {
+    "id": "zed_unique_trait",
+    "name": "Galaxy Hunter",
+    "image": "/assets/tft/traits/zed_unique_trait.png"
+  },
+  {
+    "id": "shen_unique_trait",
+    "name": "Bulwark",
+    "image": "/assets/tft/traits/shen_unique_trait.png"
+  },
+  {
+    "id": "sona_unique_trait",
+    "name": "Commander",
+    "image": "/assets/tft/traits/sona_unique_trait.png"
+  },
+  {
+    "id": "stargazer_medallion",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer_medallion.png"
+  },
+  {
+    "id": "stargazer_huntress",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer_huntress.png"
+  },
+  {
+    "id": "set17_carousel_market_empowered_hex_trait",
+    "name": "God-Blessed",
+    "image": "/assets/tft/traits/set17_carousel_market_empowered_hex_trait.png"
+  },
+  {
+    "id": "stargazer_serpent",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer_serpent.png"
+  },
+  {
+    "id": "stargazer_shield",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer_shield.png"
+  },
+  {
+    "id": "stargazer_fountain",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer_fountain.png"
+  },
+  {
+    "id": "assassin_trait",
+    "name": "Rogue",
+    "image": "/assets/tft/traits/assassin_trait.png",
+    "emblem": "/assets/tft/emblems/rouge.png"
+  },
+  {
+    "id": "dark_star",
+    "name": "Dark Star",
+    "image": "/assets/tft/traits/dark_star.png",
+    "emblem": "/assets/tft/emblems/dark_star.png"
+  },
+  {
+    "id": "primordian",
+    "name": "Primordian",
+    "image": "/assets/tft/traits/primordian.png",
+    "emblem": "/assets/tft/emblems/primordian.png"
+  },
+  {
+    "id": "space_groove",
+    "name": "Space Groove",
+    "image": "/assets/tft/traits/space_groove.png",
+    "emblem": "/assets/tft/emblems/space_groove.png"
+  },
+  {
+    "id": "admin",
+    "name": "Arbiter",
+    "image": "/assets/tft/traits/admin.png",
+    "emblem": "/assets/tft/emblems/arbiter.png"
+  },
+  {
+    "id": "stargazer_mountain",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer_mountain.png"
+  },
+  {
+    "id": "summon_trait",
+    "name": "Shepherd",
+    "image": "/assets/tft/traits/summon_trait.png",
+    "emblem": "/assets/tft/emblems/shepard.png"
+  },
+  {
+    "id": "rhaast_unique_trait",
+    "name": "Redeemer",
+    "image": "/assets/tft/traits/rhaast_unique_trait.png"
+  },
+  {
+    "id": "hptank",
+    "name": "Brawler",
+    "image": "/assets/tft/traits/hptank.png",
+    "emblem": "/assets/tft/emblems/brawler.png"
+  },
+  {
+    "id": "resist_tank",
+    "name": "Bastion",
+    "image": "/assets/tft/traits/resist_tank.png",
+    "emblem": "/assets/tft/emblems/bastion.png"
+  },
+  {
+    "id": "astronaut",
+    "name": "Meeple",
+    "image": "/assets/tft/traits/astronaut.png",
+    "emblem": "/assets/tft/emblems/meeple.png"
+  },
+  {
+    "id": "mana_trait",
+    "name": "Conduit",
+    "image": "/assets/tft/traits/mana_trait.png"
+  },
+  {
+    "id": "mecha",
+    "name": "Mecha",
+    "image": "/assets/tft/traits/mecha.png"
+  },
+  {
+    "id": "graves_trait",
+    "name": "Factory New",
+    "image": "/assets/tft/traits/graves_trait.png"
+  },
+  {
+    "id": "stargazer",
+    "name": "Stargazer",
+    "image": "/assets/tft/traits/stargazer.png",
+    "emblem": "/assets/tft/emblems/stargazer.png"
+  },
+  {
+    "id": "flex_trait",
+    "name": "Voyager",
+    "image": "/assets/tft/traits/flex_trait.png",
+    "emblem": "/assets/tft/emblems/voyager.png"
+  },
+  {
+    "id": "blitzcrank_unique_trait",
+    "name": "Party Animal",
+    "image": "/assets/tft/traits/blitzcrank_unique_trait.png"
+  },
+  {
+    "id": "drx",
+    "name": "N.O.V.A.",
+    "image": "/assets/tft/traits/drx.png",
+    "emblem": "/assets/tft/emblems/nova.png"
+  },
+  {
+    "id": "tahm_kench_unique_trait",
+    "name": "Oracle",
+    "image": "/assets/tft/traits/tahm_kench_unique_trait.png"
+  },
+  {
+    "id": "ranged_trait",
+    "name": "Sniper",
+    "image": "/assets/tft/traits/ranged_trait.png",
+    "emblem": "/assets/tft/emblems/sniper.png"
+  },
+  {
+    "id": "fiora_unique_trait",
+    "name": "Divine Duelist",
+    "image": "/assets/tft/traits/fiora_unique_trait.png"
+  },
+  {
+    "id": "morgana_unique_trait",
+    "name": "Dark Lady",
+    "image": "/assets/tft/traits/morgana_unique_trait.png"
+  }
+]

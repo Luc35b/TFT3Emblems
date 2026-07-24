@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Vertical Duelist",
+    "tier": "S",
+    "coreUnits": ["Kalista", "Yasuo", "Fiora", "Lee Sin", "Garen"],
+    "carry": "Kalista",
+    "tank": "Lee Sin",
+    "requiredTraits": ["duelist"],
+    "optionalTraits": ["ambusher", "strategist", "trickster", "bruiser"],
+    "emblemHolders": [
+      { "trait": "duelist", "holder": "Lee Sin" },
+      { "trait": "bruiser", "holder": "Garen" }
+    ],
+    "difficulty": 3
+  },
+  {
+    "name": "Bruiser Flex",
+    "tier": "A",
+    "coreUnits": ["Garen", "Sett", "Vi", "Lee Sin", "Leona"],
+    "carry": "Vi",
+    "tank": "Sett",
+    "requiredTraits": ["bruiser"],
+    "optionalTraits": ["dreadnought", "slayer", "bastion", "duelist"],
+    "emblemHolders": [
+      { "trait": "bruiser", "holder": "Lee Sin" },
+      { "trait": "bastion", "holder": "Leona" }
+    ],
+    "difficulty": 2
+  },
+  {
+    "name": "Fast 9 Strategist",
+    "tier": "A",
+    "coreUnits": ["Yasuo", "Lee Sin", "Garen", "Syndra", "Ahri"],
+    "carry": "Yasuo",
+    "tank": "Garen",
+    "requiredTraits": ["strategist"],
+    "optionalTraits": ["duelist", "sorcerer", "bruiser", "trickster"],
+    "emblemHolders": [
+      { "trait": "strategist", "holder": "Garen" },
+      { "trait": "sorcerer", "holder": "Ahri" }
+    ],
+    "difficulty": 4
+  },
+  {
+    "name": "Sorcerer Sage",
+    "tier": "S",
+    "coreUnits": ["Syndra", "Ahri", "Vex", "Soraka", "Aurelion Sol"],
+    "carry": "Syndra",
+    "tank": "Soraka",
+    "requiredTraits": ["sorcerer"],
+    "optionalTraits": ["sage", "trickster", "mythic", "heavenly", "altruist"],
+    "emblemHolders": [
+      { "trait": "sorcerer", "holder": "Vex" },
+      { "trait": "sage", "holder": "Aurelion Sol" }
+    ],
+    "difficulty": 3
+  },
+  {
+    "name": "Slayer Dreadnought",
+    "tier": "B",
+    "coreUnits": ["Zed", "Darius", "Sett", "Vi", "Lee Sin"],
+    "carry": "Darius",
+    "tank": "Sett",
+    "requiredTraits": ["slayer"],
+    "optionalTraits": ["dreadnought", "trickster", "bruiser", "duelist"],
+    "emblemHolders": [
+      { "trait": "slayer", "holder": "Zed" },
+      { "trait": "dreadnought", "holder": "Sett" }
+    ],
+    "difficulty": 3
+  },
+  {
+    "name": "Bastion Altruist",
+    "tier": "A",
+    "coreUnits": ["Garen", "Leona", "Braum", "Soraka", "Ashe"],
+    "carry": "Ashe",
+    "tank": "Leona",
+    "requiredTraits": ["bastion"],
+    "optionalTraits": ["altruist", "dryad", "bruiser", "heavenly", "ambusher"],
+    "emblemHolders": [
+      { "trait": "bastion", "holder": "Braum" },
+      { "trait": "altruist", "holder": "Soraka" }
+    ],
+    "difficulty": 2
+  },
+  {
+    "name": "Heavenly Dryad",
+    "tier": "B",
+    "coreUnits": ["Ashe", "Soraka", "Braum", "Lillia", "Aurelion Sol"],
+    "carry": "Aurelion Sol",
+    "tank": "Braum",
+    "requiredTraits": ["heavenly"],
+    "optionalTraits": ["dryad", "altruist", "ambusher", "artist", "mythic"],
+    "emblemHolders": [
+      { "trait": "heavenly", "holder": "Soraka" },
+      { "trait": "dryad", "holder": "Lillia" }
+    ],
+    "difficulty": 4
+  },
+  {
+    "name": "Mythic Sage",
+    "tier": "S",
+    "coreUnits": ["Vex", "Aurelion Sol", "Syndra", "Yasuo", "Zed"],
+    "carry": "Aurelion Sol",
+    "tank": "Yasuo",
+    "requiredTraits": ["mythic"],
+    "optionalTraits": ["sage", "sorcerer", "strategist", "trickster", "duelist"],
+    "emblemHolders": [
+      { "trait": "mythic", "holder": "Vex" },
+      { "trait": "sage", "holder": "Syndra" }
+    ],
+    "difficulty": 5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "augment_heroic_grab_bag",
+    "name": "Heroic Grab Bag",
+    "description": "",
+    "image": "/assets/tft/augments/augment_heroic_grab_bag.png"
+  },
+  {
+    "id": "augment_calltochaos",
+    "name": "Call to Chaos",
+    "description": "",
+    "image": "/assets/tft/augments/augment_calltochaos.png"
+  },
+  {
+    "id": "augment_raining_gold",
+    "name": "Raining Gold",
+    "description": "",
+    "image": "/assets/tft/augments/augment_raining_gold.png"
+  },
+  {
+    "id": "augment_portable_forge",
+    "name": "Portable Forge",
+    "description": "",
+    "image": "/assets/tft/augments/augment_portable_forge.png"
+  },
+  {
+    "id": "augment_radiant_relics",
+    "name": "Radiant Relics",
+    "description": "",
+    "image": "/assets/tft/augments/augment_radiant_relics.png"
+  },
+  {
+    "id": "augment_trade_sector",
+    "name": "Trade Sector",
+    "description": "",
+    "image": "/assets/tft/augments/augment_trade_sector.png"
+  },
+  {
+    "id": "augment_lucky_gloves_plus",
+    "name": "Lucky Gloves+",
+    "description": "",
+    "image": "/assets/tft/augments/augment_lucky_gloves_plus.png"
+  },
+  {
+    "id": "augment_big_grab_bag",
+    "name": "Big Grab Bag",
+    "description": "",
+    "image": "/assets/tft/augments/augment_big_grab_bag.png"
+  },
+  {
+    "id": "augment_roll_the_dice",
+    "name": "Radiant Rascal",
+    "description": "",
+    "image": "/assets/tft/augments/augment_roll_the_dice.png"
+  },
+  {
+    "id": "tft_augment_belt_overflow",
+    "name": "Belt Overflow",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_belt_overflow.png"
+  },
+  {
+    "id": "tft_augment_clockwork_accelerator",
+    "name": "Clockwork Accelerator",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_clockwork_accelerator.png"
+  },
+  {
+    "id": "tft_augment_crownguard_spirit",
+    "name": "Crown's Will",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_crownguard_spirit.png"
+  },
+  {
+    "id": "tft_augment_guardbreaker_spirit",
+    "name": "Mace's Will",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_guardbreaker_spirit.png"
+  },
+  {
+    "id": "tft_augment_high_voltage",
+    "name": "High Voltage",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_high_voltage.png"
+  },
+  {
+    "id": "tft_augment_pilfer",
+    "name": "Pilfer",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_pilfer.png"
+  },
+  {
+    "id": "tft_augment_replication",
+    "name": "Replication",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_replication.png"
+  },
+  {
+    "id": "tft_augment_shojin_spirit",
+    "name": "Spear's Will",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_shojin_spirit.png"
+  },
+  {
+    "id": "tft_augment_sword_overflow",
+    "name": "Sword Overflow",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_sword_overflow.png"
+  },
+  {
+    "id": "tft_augment_thorn_plated_armor",
+    "name": "Thorn-Plated Armor",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_thorn_plated_armor.png"
+  },
+  {
+    "id": "tft_augment_trifecta1",
+    "name": "Trifecta I",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_trifecta1.png"
+  },
+  {
+    "id": "tft_augment_two_trick",
+    "name": "Two Trick",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_two_trick.png"
+  },
+  {
+    "id": "tft_augment_wand_overflow",
+    "name": "Wand Overflow",
+    "description": "",
+    "image": "/assets/tft/augments/tft_augment_wand_overflow.png"
+  }
+]

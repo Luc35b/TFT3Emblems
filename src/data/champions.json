@@ -1,0 +1,301 @@
+[
+  {
+    "id": "briar",
+    "name": "Briar",
+    "cost": 1,
+    "traits": [
+      "primordian"
+    ],
+    "image": "/assets/tft/champions/briar.png"
+  },
+  {
+    "id": "caitlyn",
+    "name": "Caitlyn",
+    "cost": 1,
+    "traits": [
+      "fateweaver"
+    ],
+    "image": "/assets/tft/champions/caitlyn.png"
+  },
+  {
+    "id": "chogath",
+    "name": "Cho'Gath",
+    "cost": 1,
+    "traits": [
+      "dark_star"
+    ],
+    "image": "/assets/tft/champions/chogath.png"
+  },
+  {
+    "id": "ezreal",
+    "name": "Ezreal",
+    "cost": 1,
+    "traits": [
+      "timebreaker"
+    ],
+    "image": "/assets/tft/champions/ezreal.png"
+  },
+  {
+    "id": "lissandra",
+    "name": "Lissandra",
+    "cost": 1,
+    "traits": [
+      "dark_star"
+    ],
+    "image": "/assets/tft/champions/lissandra.png"
+  },
+  {
+    "id": "nasus",
+    "name": "Nasus",
+    "cost": 1,
+    "traits": [
+      "space_groove"
+    ],
+    "image": "/assets/tft/champions/nasus.png"
+  },
+  {
+    "id": "rek_sai",
+    "name": "Rek'Sai",
+    "cost": 1,
+    "traits": [
+      "primordian"
+    ],
+    "image": "/assets/tft/champions/rek_sai.png"
+  },
+  {
+    "id": "talon",
+    "name": "Talon",
+    "cost": 1,
+    "traits": [
+      "stargazer"
+    ],
+    "image": "/assets/tft/champions/talon.png"
+  },
+  {
+    "id": "teemo",
+    "name": "Teemo",
+    "cost": 1,
+    "traits": [
+      "space_groove"
+    ],
+    "image": "/assets/tft/champions/teemo.png"
+  },
+  {
+    "id": "twisted_fate",
+    "name": "Twisted Fate",
+    "cost": 1,
+    "traits": [
+      "stargazer",
+      "fateweaver"
+    ],
+    "image": "/assets/tft/champions/twisted_fate.png"
+  },
+  {
+    "id": "belveth",
+    "name": "Bel'Veth",
+    "cost": 2,
+    "traits": [
+      "primordian"
+    ],
+    "image": "/assets/tft/champions/belveth.png"
+  },
+  {
+    "id": "gwen",
+    "name": "Gwen",
+    "cost": 2,
+    "traits": [
+      "space_groove"
+    ],
+    "image": "/assets/tft/champions/gwen.png"
+  },
+  {
+    "id": "jax",
+    "name": "Jax",
+    "cost": 2,
+    "traits": [
+      "stargazer"
+    ],
+    "image": "/assets/tft/champions/jax.png"
+  },
+  {
+    "id": "milio",
+    "name": "Milio",
+    "cost": 2,
+    "traits": [
+      "timebreaker",
+      "fateweaver"
+    ],
+    "image": "/assets/tft/champions/milio.png"
+  },
+  {
+    "id": "mordekaiser",
+    "name": "Mordekaiser",
+    "cost": 2,
+    "traits": [
+      "dark_star"
+    ],
+    "image": "/assets/tft/champions/mordekaiser.png"
+  },
+  {
+    "id": "pantheon",
+    "name": "Pantheon",
+    "cost": 2,
+    "traits": [
+      "timebreaker"
+    ],
+    "image": "/assets/tft/champions/pantheon.png"
+  },
+  {
+    "id": "kaisa",
+    "name": "Kai'Sa",
+    "cost": 3,
+    "traits": [
+      "dark_star"
+    ],
+    "image": "/assets/tft/champions/kaisa.png"
+  },
+  {
+    "id": "lulu",
+    "name": "Lulu",
+    "cost": 3,
+    "traits": [
+      "stargazer"
+    ],
+    "image": "/assets/tft/champions/lulu.png"
+  },
+  {
+    "id": "ornn",
+    "name": "Ornn",
+    "cost": 3,
+    "traits": [
+      "space_groove"
+    ],
+    "image": "/assets/tft/champions/ornn.png"
+  },
+  {
+    "id": "samira",
+    "name": "Samira",
+    "cost": 3,
+    "traits": [
+      "space_groove"
+    ],
+    "image": "/assets/tft/champions/samira.png"
+  },
+  {
+    "id": "urgot",
+    "name": "Urgot",
+    "cost": 3,
+    "traits": [
+      "mecha"
+    ],
+    "image": "/assets/tft/champions/urgot.png"
+  },
+  {
+    "id": "aurelion_sol",
+    "name": "Aurelion Sol",
+    "cost": 4,
+    "traits": [
+      "mecha"
+    ],
+    "image": "/assets/tft/champions/aurelion_sol.png"
+  },
+  {
+    "id": "corki",
+    "name": "Corki",
+    "cost": 4,
+    "traits": [
+      "fateweaver"
+    ],
+    "image": "/assets/tft/champions/corki.png"
+  },
+  {
+    "id": "karma",
+    "name": "Karma",
+    "cost": 4,
+    "traits": [
+      "dark_star"
+    ],
+    "image": "/assets/tft/champions/karma.png"
+  },
+  {
+    "id": "nami",
+    "name": "Nami",
+    "cost": 4,
+    "traits": [
+      "space_groove"
+    ],
+    "image": "/assets/tft/champions/nami.png"
+  },
+  {
+    "id": "nunu",
+    "name": "Nunu & Willump",
+    "cost": 4,
+    "traits": [
+      "stargazer"
+    ],
+    "image": "/assets/tft/champions/nunu.png"
+  },
+  {
+    "id": "riven",
+    "name": "Riven",
+    "cost": 4,
+    "traits": [
+      "timebreaker"
+    ],
+    "image": "/assets/tft/champions/riven.png"
+  },
+  {
+    "id": "galio",
+    "name": "The Mighty Mech",
+    "cost": 4,
+    "traits": [
+      "mecha"
+    ],
+    "image": "/assets/tft/champions/galio.png"
+  },
+  {
+    "id": "xayah",
+    "name": "Xayah",
+    "cost": 4,
+    "traits": [
+      "stargazer"
+    ],
+    "image": "/assets/tft/champions/xayah.png"
+  },
+  {
+    "id": "blitzcrank",
+    "name": "Blitzcrank",
+    "cost": 5,
+    "traits": [
+      "space_groove"
+    ],
+    "image": "/assets/tft/champions/blitzcrank.png"
+  },
+  {
+    "id": "jhin",
+    "name": "Jhin",
+    "cost": 5,
+    "traits": [
+      "dark_star"
+    ],
+    "image": "/assets/tft/champions/jhin.png"
+  },
+  {
+    "id": "shen",
+    "name": "Shen",
+    "cost": 5,
+    "traits": [
+      "timebreaker"
+    ],
+    "image": "/assets/tft/champions/shen.png"
+  },
+  {
+    "id": "vex",
+    "name": "Vex",
+    "cost": 5,
+    "traits": [
+      "stargazer"
+    ],
+    "image": "/assets/tft/champions/vex.png"
+  }
+]
