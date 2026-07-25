@@ -12,14 +12,15 @@
   "app": {
     "windows": [
       {
-        "title": "TFT Comp Finder",
+        "title": "TFT J Helper",
         "width": 500,
         "height": 392,
         "resizable": true,
         "alwaysOnTop": true,
         "skipTaskbar": true,
         "decorations": false,
-        "transparent": true
+        "transparent": true,
+        "shadow": false
       },
       {
         "label": "debug-overlay",

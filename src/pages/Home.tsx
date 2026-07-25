@@ -1,17 +1,18 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { isTauri } from "@tauri-apps/api/core";
-import { getCurrentWindow } from "@tauri-apps/api/window";
+import { getCurrentWindow, LogicalSize } from "@tauri-apps/api/window";
 import { WebviewWindow } from "@tauri-apps/api/webviewWindow";
 import { EmblemButton } from "../components/EmblemButton";
 import { CompCard } from "../components/CompCard";
 import { CompDetails } from "../components/CompDetails";
-import { Sparkles, ChevronUp, ChevronDown, Bug } from "lucide-react";
+import { Search, ChevronUp, Bug } from "lucide-react";
 import emblemsData from "../data/emblems.json";
 import compsData from "../data/comps.json" with { type: "json" };
 import metadata from "../data/metadata.json" with { type: "json" };
 import { findComps } from "../lib/findComps";
 import { Comp } from "../types/Comp";
 import { GameCaptureExample } from "../components/GameCaptureExample";
+import { Header } from "../components/Header";
 
 type Screen = "select" | "results" | "details";
 
@@ -22,6 +23,11 @@ export function Home() {
   const [selectedComp, setSelectedComp] = useState<Comp | null>(null);
   const [isCollapsed, setIsCollapsed] = useState(false);
   const [isDebugMode, setIsDebugMode] = useState(false);
+
+  useEffect(() => {
+    if (!isTauri()) return;
+    void getCurrentWindow().setSize(new LogicalSize(500, isCollapsed ? 44 : 392));
+  }, [isCollapsed]);
 
   const setDebugOverlayVisible = async (visible: boolean) => {
     if (!isTauri()) return;
@@ -84,29 +90,29 @@ export function Home() {
 
   return (
     <div className={`home${isCollapsed ? " collapsed" : ""}`} data-tauri-drag-region onMouseDown={handleMouseDown}>
-      <button
-        onClick={() => setIsCollapsed(!isCollapsed)}
-        data-tauri-drag-region="false"
-        className="home-collapse-button"
-      >
-        {isCollapsed ? (
-          <ChevronDown className="home-collapse-button-icon" />
-        ) : (
-          <ChevronUp className="home-collapse-button-icon" />
-        )}
-      </button>
+      {isCollapsed ? (
+        <Header title="TFT J Helper" isCollapsed onCollapse={() => setIsCollapsed(false)} />
+      ) : (
+        <>
+          <button
+            onClick={() => setIsCollapsed(true)}
+            data-tauri-drag-region="false"
+            className="home-collapse-button"
+            aria-label="Collapse overlay"
+          >
+            <ChevronUp className="home-collapse-button-icon" />
+          </button>
 
-      <button
-        onClick={toggleDebugMode}
-        data-tauri-drag-region="false"
-        className={`home-debug-button${isDebugMode ? " active" : ""}`}
-        title={isDebugMode ? "Hide debug diagnostics" : "Show debug diagnostics"}
-        aria-label={isDebugMode ? "Hide debug diagnostics" : "Show debug diagnostics"}
-      >
-        <Bug className="home-debug-button-icon" />
-      </button>
+          <button
+            onClick={toggleDebugMode}
+            data-tauri-drag-region="false"
+            className={`home-debug-button${isDebugMode ? " active" : ""}`}
+            title={isDebugMode ? "Hide debug diagnostics" : "Show debug diagnostics"}
+            aria-label={isDebugMode ? "Hide debug diagnostics" : "Show debug diagnostics"}
+          >
+            <Bug className="home-debug-button-icon" />
+          </button>
 
-      {!isCollapsed && (
         <main className="home-main">
           {isDebugMode && <GameCaptureExample />}
           {screen === "select" && (
@@ -139,7 +145,7 @@ export function Home() {
                 data-tauri-drag-region="false"
                 className="home-find-button"
               >
-                <Sparkles className="home-find-button-icon" />
+                <Search className="home-find-button-icon" />
                 Find Comp
               </button>
             </div>
@@ -192,6 +198,7 @@ export function Home() {
             </div>
           )}
         </main>
+        </>
       )}
     </div>
   );
